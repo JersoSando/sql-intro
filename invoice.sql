@@ -25,7 +25,7 @@ SELECT SUM(total) FROM invoice;
 -- 9
 UPDATE invoice 
 SET total = 24
-WHERE invoice_id =5;
+WHERE invoice_id = 5;
 
 -- 10 
 DELETE 
